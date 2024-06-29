@@ -1,4 +1,4 @@
-package HelloWorld
+package main
 
 // To be executable, the package name must be main
 // You can't have two package definitions in the same folder
